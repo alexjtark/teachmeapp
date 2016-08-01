@@ -31,6 +31,7 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
 end
 
+gem 'bower-rails'
 gem 'sass', '3.2.19' 
 
 group :test, :development do
